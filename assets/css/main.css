@@ -3341,7 +3341,3 @@ input, select, textarea {
 		color: #FFF !important;
 		transition: all 0.2s;
 	}
-
-	#header p {
-		max-width: 50vw !important;
-}
